@@ -1,0 +1,2 @@
+1. create angular project
+run command ng new angular-project
